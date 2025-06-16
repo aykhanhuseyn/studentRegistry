@@ -1,0 +1,6 @@
+ID,Name,Surname,Email,Enrolled Courses
+1,Alice,Smith,alice.smith@school.edu.az,"Mathematics, Physics"
+2,Bob,Johnson,bob.johnson@school.edu.az,Chemistry
+3,Charlie,Brown,charlie.brown@school.edu.az,Mathematics
+4,David,Williams,david.williams@school.edu.az,Physics
+5,Eve,Jones,eve.jones@school.edu.az,"Chemistry, Mathematics, Physics"
